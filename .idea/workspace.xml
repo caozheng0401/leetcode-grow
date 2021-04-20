@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="" />
+    <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_2两数相加.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1两数之和.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,11 +68,26 @@
       <updated>1618876486281</updated>
       <workItem from="1618876496098" duration="22000" />
       <workItem from="1618876523825" duration="4115000" />
+      <workItem from="1618882095941" duration="1104000" />
+      <workItem from="1618925691841" duration="4164000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="798" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1618876550942">
