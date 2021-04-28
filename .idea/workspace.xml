@@ -2,8 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_2两数相加.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_1两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_1两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_141环形链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_179最大数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_1两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_206反转链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_20有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_226翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_232用栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_237删除链表中的节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_27移除元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_28实现strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_2两数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_3无重复字符的最长子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_485最大连续1的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/month4/_633平方数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_141环形链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_179最大数.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_1两数之和.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_206反转链表.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_20有效的括号.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_226翻转二叉树.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_232用栈实现队列.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_237删除链表中的节点.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_27移除元素.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_28实现strStr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_2两数相加.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_485最大连续1的个数.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +65,16 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1rPSxvTKX7T6IoIEqnwTpKWKLS5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -69,7 +97,9 @@
       <workItem from="1618876496098" duration="22000" />
       <workItem from="1618876523825" duration="4115000" />
       <workItem from="1618882095941" duration="1104000" />
-      <workItem from="1618925691841" duration="4164000" />
+      <workItem from="1618925691841" duration="4202000" />
+      <workItem from="1619100929850" duration="538000" />
+      <workItem from="1619572873426" duration="959000" />
     </task>
     <servers />
   </component>
@@ -89,6 +119,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="798" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1618876550942">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -106,5 +139,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618880687171" />
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1619573272024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="670" height="676" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1619573272024" />
   </component>
 </project>
