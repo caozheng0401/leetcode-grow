@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linklist/Offer52两个链表的第一个公共节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Offer09用两个栈实现队列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Offer30包含min函数的栈.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/month4/_20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/month4/_20有效的括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_34在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_35搜索插入位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_367有效的完全平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_69x的平方根.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_704二分查找.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,10 +58,43 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10693877" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="cn.fantasticmao.ycy.intellij.plugin" />
+  </component>
+  <component name="RunManager" selected="Application.a (1)">
+    <configuration name="a (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.a" />
+      <module name="leetcode-grow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.a (1)" />
+        <item itemvalue="Application.a" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,7 +113,10 @@
       <workItem from="1619100929850" duration="538000" />
       <workItem from="1619572873426" duration="1165000" />
       <workItem from="1620566575360" duration="1864000" />
-      <workItem from="1620826014839" duration="3548000" />
+      <workItem from="1620826014839" duration="3975000" />
+      <workItem from="1621090983604" duration="11847000" />
+      <workItem from="1621140566650" duration="418000" />
+      <workItem from="1621140996185" duration="1759000" />
     </task>
     <servers />
   </component>
@@ -103,6 +140,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1621140947604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1621140947604" />
+    <state x="656" y="151" key="#a_(1)" timestamp="1621141017543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="151" key="#a_(1)/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1621141017543" />
     <state x="798" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1618876550942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -111,14 +156,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="558" y="26" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618882192524" />
+    <state x="601" y="226" key="FileChooserDialogImpl" timestamp="1621140943911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="226" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1621140943911" />
     <state x="763" y="410" key="Github.CreateGistDialog" timestamp="1618881667412">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="410" key="Github.CreateGistDialog/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618881667412" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1618880687171">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1621141536387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1618880687171" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1621141536387" />
     <state x="616" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1619573272024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
