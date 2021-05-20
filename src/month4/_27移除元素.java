@@ -19,13 +19,12 @@
  */
 public class _27移除元素 {
     public int removeElement(int[] nums, int val) {
-        int i1 = 0;
-        for(int i2 = 0;i2 < nums.length;i2++){
-            if (nums[i2] != val){
-                nums[i1] = nums[i2];
-                i1++;
+        int slow = 0;
+        for (int fast = 0; fast < nums.length; fast++) {
+            if (nums[fast] != val){
+                nums[slow++] = nums[fast];
             }
         }
-        return i1;
+        return slow;
     }
 }

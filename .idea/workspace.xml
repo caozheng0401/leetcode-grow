@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/stack/_34在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_35搜索插入位置.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_367有效的完全平方数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_69x的平方根.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_704二分查找.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_209长度最小的子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_26删除有序数组中的重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_283移动零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack/_904水果成篮.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_27移除元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/month4/_27移除元素.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,10 @@
       <workItem from="1620826014839" duration="3975000" />
       <workItem from="1621090983604" duration="11847000" />
       <workItem from="1621140566650" duration="418000" />
-      <workItem from="1621140996185" duration="1759000" />
+      <workItem from="1621140996185" duration="2122000" />
+      <workItem from="1621143807088" duration="287000" />
+      <workItem from="1621353263246" duration="6801000" />
+      <workItem from="1621528364071" duration="1448000" />
     </task>
     <servers />
   </component>
