@@ -1,4 +1,4 @@
-package linklist;
+package problems;
 
 /**
  * @author cz

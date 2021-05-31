@@ -1,4 +1,4 @@
-package stack;
+package problems;
 
 /**
  * @author cz

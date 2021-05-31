@@ -1,4 +1,4 @@
-package month4;
+package problems;
 
 /**
  * @author cz

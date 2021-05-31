@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/month4/_707设计链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/_203移除链表元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_1002查找常用字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_142环形链表2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_19删除链表的倒数第N个结点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_202快乐数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_242有效的字母异位词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_349两个数组的交集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_链表相交.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linklist/Offer52两个链表的第一个公共节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/Offer52两个链表的第一个公共节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_141环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_141环形链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_179最大数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_179最大数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_1两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_1两数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_206反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_206反转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_20有效的括号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_226翻转二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_226翻转二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_232用栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_232用栈实现队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_237删除链表中的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_237删除链表中的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_27移除元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_27移除元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_28实现strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_28实现strStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_2两数相加.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_2两数相加.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_3无重复字符的最长子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_3无重复字符的最长子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_485最大连续1的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_485最大连续1的个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_633平方数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_633平方数之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/month4/_707设计链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_707设计链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/Offer09用两个栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/Offer09用两个栈实现队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/Offer30包含min函数的栈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/Offer30包含min函数的栈.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_203移除链表元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_203移除链表元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_209长度最小的子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_209长度最小的子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_26删除有序数组中的重复项.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_26删除有序数组中的重复项.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_283移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_283移动零.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_34在排序数组中查找元素的第一个和最后一个位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_34在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_35搜索插入位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_35搜索插入位置.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_367有效的完全平方数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_367有效的完全平方数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_59螺旋矩阵II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_59螺旋矩阵II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_69x的平方根.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_69x的平方根.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_704二分查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_704二分查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/_904水果成篮.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_904水果成篮.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +56,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -55,6 +97,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10693877" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -78,10 +121,35 @@
       <module name="leetcode-grow" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.a" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,7 +188,7 @@
       <workItem from="1621528364071" duration="1622000" />
       <workItem from="1621846637355" duration="634000" />
       <workItem from="1621865893783" duration="4442000" />
-      <workItem from="1622456957342" duration="368000" />
+      <workItem from="1622456957342" duration="7186000" />
     </task>
     <servers />
   </component>

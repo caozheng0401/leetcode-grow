@@ -25,18 +25,29 @@ public class _206反转链表 {
     }
     public ListNode reverseList(ListNode head) {
 
+//        if(head == null) return null;
+//        if (head.next == null) return head;
+////        ListNode newhead =reverseList(head.next);
+////        head.next.next = head;
+////        head.next = null;
+//        ListNode newhead = null;
+//        while(head != null){
+//            ListNode tmp = head.next;
+//            head.next = newhead;
+//            newhead = head;
+//            head = tmp;
+//        }
+//        return newhead;
         if(head == null) return null;
         if (head.next == null) return head;
-//        ListNode newhead =reverseList(head.next);
-//        head.next.next = head;
-//        head.next = null;
-        ListNode newhead = null;
-        while(head != null){
-            ListNode tmp = head.next;
-            head.next = newhead;
-            newhead = head;
-            head = tmp;
+        ListNode pre = null;
+        ListNode cur = head;
+        while (cur.next != null){
+            ListNode tem = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = tem;
+
         }
-        return newhead;
     }
 }
