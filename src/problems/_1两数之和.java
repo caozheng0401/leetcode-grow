@@ -4,6 +4,7 @@
  */
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -32,5 +33,22 @@ public class _1两数之和 {
         }
         int[] b = {a.get(0),a.get(1)};
         return b;
+    }
+    public int[] twoSum1(int[] nums, int target) {
+        int[] res = new int[2];
+       if(nums == null || nums.length == 0){
+           return res;
+       }
+        HashMap<Integer, Integer> integerIntegerHashMap = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            int temp = target - nums[i];
+            if (integerIntegerHashMap.containsKey(temp)){
+                res[1] = i;
+                res[0] = integerIntegerHashMap.get(temp);
+            }
+            integerIntegerHashMap.put(nums[i],i);
+        }
+        return res;
+
     }
 }
