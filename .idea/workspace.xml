@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems/_151翻转字符串里的单词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_15三数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_18四数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_344反转字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_383赎金信.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_454四数相加2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_541反转字符串2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_左旋转字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_替换空格.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/_1两数之和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_1两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_1047删除字符串中的所有相邻重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_150逆波兰表达式求值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_225用队列实现栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_239滑动窗口最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_347前K个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problems/_459重复的子字符串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/_20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_20有效的括号.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/_28实现strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_28实现strStr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +162,10 @@
       <workItem from="1621865893783" duration="4442000" />
       <workItem from="1622456957342" duration="7488000" />
       <workItem from="1622546836869" duration="6113000" />
-      <workItem from="1622630459460" duration="4144000" />
+      <workItem from="1622630459460" duration="5007000" />
+      <workItem from="1622732971634" duration="245000" />
+      <workItem from="1622893459601" duration="4887000" />
+      <workItem from="1622990413172" duration="7497000" />
     </task>
     <servers />
   </component>
