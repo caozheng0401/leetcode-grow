@@ -2,14 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b502235-2b1e-4d75-8fbf-e732a7fdace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problems/_1047删除字符串中的所有相邻重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_150逆波兰表达式求值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_225用队列实现栈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_239滑动窗口最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_347前K个高频元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problems/_459重复的子字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/_20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_20有效的括号.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/_28实现strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/_28实现strStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[102]二叉树的层序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[102]二叉树的层序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[104]二叉树的最大深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[107]二叉树的层序遍历 II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[144]二叉树的前序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[145]二叉树的后序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[199]二叉树的右视图.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[226]翻转二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[94]二叉树的中序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[94]二叉树的中序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/die-dai-di-gui-duo-tu-yan-shi-102er-cha-shu-de-cen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/dong-hua-yan-shi-liang-chong-shi-xian-226-fan-zhua.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/er-cha-shu-de-zhong-xu-bian-li-by-leetcode-solutio.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/p__textit{predecessor}_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/p__textit{root}_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/p__x_=_x.textit{left}_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/p__x_=_x.textit{right}_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/qing-song-ji-yi-er-cha-shu-de-qian-zhong-6vu5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +87,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10693877" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Application.a (1)">
     <configuration name="a (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -113,19 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.a (1)" />
@@ -135,7 +136,7 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\15463\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -165,7 +166,16 @@
       <workItem from="1622630459460" duration="5007000" />
       <workItem from="1622732971634" duration="245000" />
       <workItem from="1622893459601" duration="4887000" />
-      <workItem from="1622990413172" duration="7497000" />
+      <workItem from="1622990413172" duration="7600000" />
+      <workItem from="1623065059255" duration="254000" />
+      <workItem from="1623065330579" duration="49000" />
+      <workItem from="1623065413268" duration="1282000" />
+      <workItem from="1623069420731" duration="856000" />
+      <workItem from="1623073310483" duration="2287000" />
+      <workItem from="1623075636788" duration="147000" />
+      <workItem from="1623075810796" duration="838000" />
+      <workItem from="1623137783200" duration="3661000" />
+      <workItem from="1623212671180" duration="3810000" />
     </task>
     <servers />
   </component>
